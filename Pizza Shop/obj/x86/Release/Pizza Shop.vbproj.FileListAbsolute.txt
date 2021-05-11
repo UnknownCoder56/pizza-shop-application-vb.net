@@ -1,0 +1,15 @@
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\bin\Release\Pizza Shop.exe
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\bin\Release\Pizza Shop.pdb
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\bin\Release\Pizza Shop.xml
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Release\Pizza_Shop.ChoosePizza.resources
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Release\Pizza_Shop.ChooseSize.resources
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Release\Pizza_Shop.Summary.resources
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Release\Pizza_Shop.Resources.resources
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Release\Pizza Shop.vbproj.GenerateResource.Cache
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Release\Pizza Shop.exe
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Release\Pizza Shop.xml
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Release\Pizza Shop.pdb
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\bin\Release\Pizza Shop.exe.manifest
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\bin\Release\Pizza Shop.application
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Release\Pizza Shop.exe.manifest
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Release\Pizza Shop.application

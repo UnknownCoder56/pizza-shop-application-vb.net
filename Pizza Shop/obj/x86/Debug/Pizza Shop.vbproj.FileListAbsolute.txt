@@ -1,0 +1,36 @@
+C:\Users\arpan_chatterjee\AppData\Local\Temporary Projects\Pizza Shop\bin\Debug\Pizza Shop.exe
+C:\Users\arpan_chatterjee\AppData\Local\Temporary Projects\Pizza Shop\bin\Debug\Pizza Shop.pdb
+C:\Users\arpan_chatterjee\AppData\Local\Temporary Projects\Pizza Shop\bin\Debug\Pizza Shop.xml
+C:\Users\arpan_chatterjee\AppData\Local\Temporary Projects\Pizza Shop\obj\x86\Debug\Pizza_Shop.Form1.resources
+C:\Users\arpan_chatterjee\AppData\Local\Temporary Projects\Pizza Shop\obj\x86\Debug\Pizza_Shop.Resources.resources
+C:\Users\arpan_chatterjee\AppData\Local\Temporary Projects\Pizza Shop\obj\x86\Debug\Pizza Shop.vbproj.GenerateResource.Cache
+C:\Users\arpan_chatterjee\AppData\Local\Temporary Projects\Pizza Shop\obj\x86\Debug\Pizza Shop.exe
+C:\Users\arpan_chatterjee\AppData\Local\Temporary Projects\Pizza Shop\obj\x86\Debug\Pizza Shop.xml
+C:\Users\arpan_chatterjee\AppData\Local\Temporary Projects\Pizza Shop\obj\x86\Debug\Pizza Shop.pdb
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Debug\Pizza Shop.exe
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Debug\Pizza Shop.xml
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Debug\Pizza Shop.pdb
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\bin\Debug\Pizza Shop.exe
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\bin\Debug\Pizza Shop.pdb
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\bin\Debug\Pizza Shop.xml
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Debug\Pizza_Shop.Resources.resources
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Debug\Pizza Shop.vbproj.GenerateResource.Cache
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Debug\Pizza_Shop.ChoosePizza.resources
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Debug\Pizza_Shop.ChooseSize.resources
+C:\Users\arpan_chatterjee\Desktop\My Visual Basic Projects\Pizza Shop\obj\x86\Debug\Pizza_Shop.Summary.resources
+E:\Users\Owner\source\repos\Pizza Shop\bin\Debug\Pizza Shop.exe.manifest
+E:\Users\Owner\source\repos\Pizza Shop\bin\Debug\Pizza Shop.application
+E:\Users\Owner\source\repos\Pizza Shop\bin\Debug\Pizza Shop.exe
+E:\Users\Owner\source\repos\Pizza Shop\bin\Debug\Pizza Shop.pdb
+E:\Users\Owner\source\repos\Pizza Shop\bin\Debug\Pizza Shop.xml
+E:\Users\Owner\source\repos\Pizza Shop\obj\x86\Debug\Pizza_Shop.ChoosePizza.resources
+E:\Users\Owner\source\repos\Pizza Shop\obj\x86\Debug\Pizza_Shop.ChooseSize.resources
+E:\Users\Owner\source\repos\Pizza Shop\obj\x86\Debug\Pizza_Shop.Summary.resources
+E:\Users\Owner\source\repos\Pizza Shop\obj\x86\Debug\Pizza_Shop.Resources.resources
+E:\Users\Owner\source\repos\Pizza Shop\obj\x86\Debug\Pizza Shop.vbproj.GenerateResource.cache
+E:\Users\Owner\source\repos\Pizza Shop\obj\x86\Debug\Pizza Shop.vbproj.CoreCompileInputs.cache
+E:\Users\Owner\source\repos\Pizza Shop\obj\x86\Debug\Pizza Shop.exe.manifest
+E:\Users\Owner\source\repos\Pizza Shop\obj\x86\Debug\Pizza Shop.application
+E:\Users\Owner\source\repos\Pizza Shop\obj\x86\Debug\Pizza Shop.exe
+E:\Users\Owner\source\repos\Pizza Shop\obj\x86\Debug\Pizza Shop.xml
+E:\Users\Owner\source\repos\Pizza Shop\obj\x86\Debug\Pizza Shop.pdb
